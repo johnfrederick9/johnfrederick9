@@ -121,7 +121,7 @@ Here are some ideas to get you started:
 [![Trophies](https://github-profile-trophy.vercel.app/?username=johnfrederick9&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ## Feeding...
-![Pacman animation](https://raw.githubusercontent.com/johnfrederickgelay9/johnfrederickgelay9/output/pacman-contribution-graph.svg)
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/johnfrederickgelay9/johnfrederickgelay9/output/pacman-contribution-graph.svg">
 
 
 ##
