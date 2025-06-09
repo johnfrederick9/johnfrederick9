@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - SQL, MySQL, NoSQL, Redis, PostgreSQL, MongoDB ...
 - LocalStorage, SessionStorage, JWT -->
 
-## Languages and Tools:
+## Languages, Freameworks, and Tools:
 <div align="left">
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /></code>
   <img width="12" />
