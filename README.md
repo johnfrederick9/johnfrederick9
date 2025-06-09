@@ -56,14 +56,17 @@ Here are some ideas to get you started:
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /></code>
   <img width="12" />
+   <code><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  /></code>
+  <img width="12" />
+     <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /></code>
+  <img width="12" />
+  <code><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  /></code>
+  <img width="12" />
   <!-- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="30" alt="babel logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  /></code>
   <img width="12" /> -->
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /></code>
-  <img width="12" />
-  <code><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  /></code>
-  <img width="12" />
+
   <!-- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  /></code>
