@@ -70,6 +70,10 @@ Here are some ideas to get you started:
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  /></code>
   <img width="12" />
+   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  /></code>
+  <img width="12" />
+  <code><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  /></code>
+  <img width="12" />
    <!-- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  /></code>
    <img width="12" />  -->
   <!-- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="30" alt="babel logo"  /></code>
@@ -88,10 +92,6 @@ Here are some ideas to get you started:
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  /></code>
-  <img width="12" />
-  <code><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  /></code>
   <img width="12" />
