@@ -70,8 +70,8 @@ Here are some ideas to get you started:
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  /></code>
   <img width="12" />
-   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  /></code>
-  <img width="12" />
+<!--    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  /></code>
+  <img width="12" /> -->
   <code><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  /></code>
   <img width="12" />
    <!-- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  /></code>
