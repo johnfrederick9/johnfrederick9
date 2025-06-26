@@ -117,8 +117,8 @@ Here are some ideas to get you started:
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?username=johnfrederick9&theme=onedark" />
 </div> 
 
-<!-- ## My Rewards
-[![Trophies](https://github-profile-trophy.vercel.app/?username=johnfrederick9&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+ ## My Rewards
+[![Trophies](https://github-profile-trophy.vercel.app/?username=johnfrederick9&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) 
 
 <!-- ## Feeding...
    <br clear="both">
