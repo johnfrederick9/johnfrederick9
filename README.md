@@ -72,8 +72,8 @@ Here are some ideas to get you started:
   <img width="12" />
   <code><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  /></code>
   <img width="12" />
-   <!-- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  /></code>
-   <img width="12" />  -->
+   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  /></code>
+   <img width="12" /> 
   <!-- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="30" alt="babel logo"  /></code>
   <img width="12" />-->
   <!-- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  /></code>
@@ -114,7 +114,7 @@ Here are some ideas to get you started:
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=johnfrederick9&show_icons=true&theme=onedark"/>
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=johnfrederick9&layout=compact&theme=onedark" />
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=johnfrederick9&theme=github" />
-<!--   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=johnfrederick9&theme=onedark" /> -->
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=johnfrederick9&theme=onedark" />
 </div> 
 
 <!-- ## My Rewards
