@@ -115,6 +115,7 @@ Here are some ideas to get you started:
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=johnfrederick9&layout=compact&theme=onedark" />
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=johnfrederick9&theme=github" />
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?username=johnfrederick9&theme=onedark" />
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=johnfrederick9&theme=dark" alt="GitHub Streak" /></a>
 </div> 
 
  ## My Rewards
