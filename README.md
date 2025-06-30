@@ -76,8 +76,7 @@ Here are some ideas to get you started:
   <img width="12" /> -->
   <!-- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="30" alt="babel logo"  /></code>
   <img width="12" />-->
-  <!-- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  /></code>
-  <img width="12" />
+  <!-- 
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  /></code>
   <img width="12" />
   <code><img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  /></code>
