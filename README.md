@@ -72,8 +72,9 @@ Here are some ideas to get you started:
   <img width="12" />
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  /></code>
    <img width="12" /> 
-<!--  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="nextjs logo"  /></code>
-  <img width="12" /> -->
+ <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="django logo"  /></code>
+  <img width="12" />
+<!--   -->
   <!-- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="30" alt="babel logo"  /></code>
   <img width="12" />-->
   <!-- 
