@@ -116,7 +116,7 @@ Here are some ideas to get you started:
 </div> 
 
  ## My Rewards
-<!---[![Trophies](https://github-profile-trophy.vercel.app/?username=johnfrederick9&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+[![Trophies](https://github-profile-trophy.vercel.app/?username=johnfrederick9&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) 
 
 <!-- ## Feeding...
    <br clear="both">
