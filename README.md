@@ -74,6 +74,36 @@ Here are some ideas to get you started:
    <img width="12" /> 
  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  /></code>
   <img width="12" />
+  <!-- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="30" alt="babel logo"  /></code>
+  <img width="12" />-->
+  <!-- 
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  /></code>
+  <img width="12" />
+  <code><img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  /></code>
+  <img width="12" /> -->
+  <!-- <code><img src="https://skillicons.dev/icons?i=golang" height="30" alt="golang logo"  /></code>
+  <img width="12" />
+  <code><img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  /></code> -->
+  <!--   <img width="12" /> -->
+  <!-- <code><img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="30" alt="socketio logo"  /></code> 
+  <img width="12" /> 
+  <code><img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  /></code>
+  <img width="12" />
+  <!-- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  /></code> -->
 </div>
 
 ## My Journey:
