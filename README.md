@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm John Frederick D. Gelay 👋 </h1>
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=johnfrederick9.taozhi883398&left_color=royalblue&right_color=black"  />
- --><!-- ❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend
+ -->
+<!-- ❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend
 🤔 I'm currently working on Kubernetes with edge computing.
 
 ✨ I study: React, Kubernetes, Rust, Nodejs
@@ -112,7 +113,7 @@ Here are some ideas to get you started:
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=johnfrederick9&theme=github" />
 <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=johnfrederick9&theme=onedark" />
 <!-- <img width="385px" src="https://github-readme-streak-stats.herokuapp.com?user=johnfrederick9&theme=dark" />  -->
-</div>  
+</div> 
 
  ## My Rewards
 [![Trophies](https://github-profile-trophy.vercel.app/?username=johnfrederick9&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) 
