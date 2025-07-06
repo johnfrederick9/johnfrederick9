@@ -74,7 +74,7 @@ Here are some ideas to get you started:
    <img width="12" /> 
  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  /></code>
   <img width="12" />
-  <!- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="30" alt="babel logo"  /></code>
+  <!-- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="30" alt="babel logo"  /></code>
   <img width="12" />-->
   <!-- 
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  /></code>
@@ -105,7 +105,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <!-- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  /></code> -->
 </div>
-
+</div>
 ## My Journey:
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=johnfrederick9&show_icons=true&theme=onedark"/>
