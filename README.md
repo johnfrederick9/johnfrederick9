@@ -105,7 +105,6 @@ Here are some ideas to get you started:
   <img width="12" />
   <!-- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  /></code> -->
 </div>
-</div>
 ## My Journey:
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=johnfrederick9&show_icons=true&theme=onedark"/>
