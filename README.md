@@ -102,7 +102,7 @@ Here are some ideas to get you started:
   <!-- <code><img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="30" alt="socketio logo"  /></code> 
   <img width="12" /> 
   <code><img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  /></code>
-  <img width="12" />
+  <img width="12" /> -->
 
 </div>
 
