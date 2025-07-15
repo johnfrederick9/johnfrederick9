@@ -81,8 +81,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <code><img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  /></code>
   <img width="12" /> -->
-  <!-- <code><img src="https://skillicons.dev/icons?i=golang" height="30" alt="golang logo"  /></code>
-  <img width="12" />
+  <!-- 
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  /></code>
