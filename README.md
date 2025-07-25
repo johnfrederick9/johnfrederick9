@@ -39,8 +39,7 @@ Here are some ideas to get you started:
 - ❤️ API, RESTful API, GraphQL
 - HTML/CSS, Javascript
 - git, docker, CI/CD
-- SQL, MySQL, NoSQL, Redis, PostgreSQL, MongoDB ...
-- LocalStorage, SessionStorage, JWT -->
+- SQL, MySQL, NoSQL, Redis, PostgreSQL, MongoDB ... -->
 
 ## Languages, Freameworks, and Tools:
 <div align="left">
