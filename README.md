@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- ❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend
 🤔 I'm currently working on Kubernetes with edge computing.
 
-✨ I study: React, Kubernetes, Rust, Nodejs
+✨ I study: React, Kubernetes, Nodejs
 
 
 
