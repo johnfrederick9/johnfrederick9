@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - ❤️ API, RESTful API, GraphQL
 - HTML/CSS, Javascript
 - git, docker, CI/CD
-- SQL, MySQL, NoSQL, MongoDB ... -->
+- SQL, MySQL, NoSQL, MongoDB, PostgreSQL... -->
 
 ## Languages, Freameworks, and Tools:
 <div align="left">
