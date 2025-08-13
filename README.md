@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 3+ years of experience in Kubernetes
 - 1+ years of experience in Rust
 - 🏆 Chat bots (Telegram, Twitter, Facebook Messenger)
-- ❤️ API, RESTful API, GraphQL
+- ❤️ API, RESTful API
 - HTML/CSS, Javascript
 - git, docker, CI/CD
 - SQL, MySQL, NoSQL, MongoDB... -->
