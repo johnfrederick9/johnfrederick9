@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - 1+ years of experience in Rust
 - 🏆 Chat bots (Telegram, Twitter, Facebook Messenger)
 - ❤️ API, RESTful API
-- HTML/CSS, Javascript
+- HTML/CSS, Javascript, Typescript 
 - git, docker, CI/CD
 - SQL, MySQL, NoSQL, MongoDB... -->
 
