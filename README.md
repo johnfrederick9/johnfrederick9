@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 5+ years of experience in React, Node.js, Express.js , async, await
 - 3+ years of experience in Kubernetes
 - 1+ years of experience in Rust
-- 🏆 Chat bots (Telegram, Twitter, Facebook Messenger)
+- 🏆 Chat bots (, Twitter, Facebook Messenger)
 - ❤️ API, RESTful API
 - HTML/CSS, Javascript, Typescript 
 - git, docker, CI/CD
