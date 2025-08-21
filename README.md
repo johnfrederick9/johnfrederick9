@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300"> -->
 
 <!-- ## My stack:
-- 5+ years of experience in React, Node.js , async, await
+- 5+ years of experience in React, Node.js, await
 - 3+ years of experience in Kubernetes
 - 1+ years of experience in Rust
 - 🏆 Chat bots (, Twitter, Facebook Messenger)
