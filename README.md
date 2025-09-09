@@ -38,8 +38,7 @@ Here are some ideas to get you started:
 - ❤️ API, RESTful API
 - HTML/CSS, Javascript, Typescript 
 - git, docker, CI/CD
-- SQL, MySQL, NoSQL, MongoDB... -->
-
+- SQL, MySQL, MongoDB...
 ## Languages, Freameworks, and Tools:
 <div align="left">
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /></code>
