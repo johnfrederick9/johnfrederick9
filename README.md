@@ -38,6 +38,75 @@ Here are some ideas to get you started:
 - ❤️ API, RESTful API
 - HTML/CSS, Javascript, Typescript 
 - git, docker, CI/CD
+- SQL, MySQL, NoSQL, MongoDB... -->
+
+## Languages, Freameworks, and Tools:
+<div align="left">
+   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /></code>
+  <img width="12" />
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /></code>
+  <img width="12" />
+   <code><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  /></code>
+  <img width="12" />
+   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /></code>
+  <img width="12" />
+  <code><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  /></code>
+  <img width="12" />
+   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  /></code>
+  <img width="12" />
+ <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  /></code>
+  <img width="12" />
+   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  /></code>
+   <img width="12" /> 
+ <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  /></code>
+  <img width="12" />
+</div>
+
+## My Journey:
+<div>
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=johnfrederick9&show_icons=true&theme=onedark"/>
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=johnfrederick9&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=johnfrederick9&theme=github" />
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=johnfrederick9&theme=onedark" />  
+</div>
+
+## My Rewards
+[![Trophies](https://github-profile-trophy.vercel.app/?username=johnfrederick9&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- ## Feeding...
+   <br clear="both">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/johnfrederickgelay9/johnfrederickgelay9/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/johnfrederickgelay9/johnfrederickgelay9/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/johnfrederickgelay9/johnfrederickgelay9/output/pacman-contribution-graph.svg">
+  </picture> -->
+##
+<!--<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em> --->- 🔭 I’m looking to collaborate on commercial projects and startups
+- 📫 How to reach me: [Email](johnfrederick9@gmail.com)
+- 💬 Ask me about `Frontend` or `Backend`
+
+<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300"> -->
+
+<!-- ## My stack:
+- 5+ years of experience in React, Node.js, await
+- 3+ years of experience in Kubernetes
+- 1+ years of experience in Rust
+- 🏆 Chat bots (, Twitter, Facebook Messenger)
+- ❤️ API, RESTful API
+- HTML/CSS, Javascript, Typescript 
+- git, docker, CI/CD
 - SQL, MySQL, MongoDB...
 ## Languages, Freameworks, and Tools:
 <div align="left">
