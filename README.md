@@ -94,7 +94,7 @@ Here are some ideas to get you started:
   </picture> -->
 ##
 <!--<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em> --->- 🔭 I’m looking to collaborate on commercial projects and startups
-- 📫 How to reach me: [Email](johnfrederick9@gmail.com)
+<!--- 📫 How to reach me: [Email](johnfrederick9@gmail.com)
 - 💬 Ask me about `Frontend` or `Backend`
 
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300"> -->
