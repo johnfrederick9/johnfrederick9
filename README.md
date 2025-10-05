@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <!-- ## My stack:
 - 5+ years of experience in React, Node.js, await
-- 3+ years of experience in Kubernetes
+- 3+ years of experience in 
 - 1+ years of experience in Rust
 - 🏆 Chat bots (, Twitter, Facebook Messenger)
 - ❤️ API, RESTful API
