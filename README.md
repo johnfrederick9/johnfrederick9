@@ -93,7 +93,7 @@ Here are some ideas to get you started:
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/johnfrederickgelay9/johnfrederickgelay9/output/pacman-contribution-graph.svg">
   </picture> -->
 ##
-<!--<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em> --->- 🔭 I’m looking to collaborate on commercial projects and startups
+<!--<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em> --->- 
 <!--- 📫 How to reach me: [Email](johnfrederick9@gmail.com)
 - 💬 Ask me about `Frontend` or `Backend`
 
